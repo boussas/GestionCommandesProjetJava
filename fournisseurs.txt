@@ -1,0 +1,5 @@
+Nom_fournisseur1,Prénom_fournisseur1,RS_fournisseur1,DA_fournisseur1,true
+Nom_fournisseur2,Prénom_fournisseur2,RS_fournisseur2,DA_fournisseur2,true
+Nom_fournisseur3,Prénom_fournisseur3,RS_fournisseur3,DA_fournisseur3,true
+Nom_fournisseur6,Prénom_fournisseur6,-,DA_fournisseur6,false
+Nom_fournisseur7,Prénom_fournisseur7,-,DA_fournisseur7,false

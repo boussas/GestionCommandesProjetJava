@@ -1,0 +1,3 @@
+2,Bread x10,10,10.0,20/06/2024,10/12/2024,Nom4 Prénom4,Nom_fournisseur2 Prénom_fournisseur2
+3,Biscuits x15, Bread x14, milk x15,44,224.0,20/06/2024,10/02/2025,Nom4 Prénom4,Nom_fournisseur2 Prénom_fournisseur2
+5,Rice x43, milk x50,93,801.0,20/06/2024,18/07/2024,Nom5 Prénom5,Nom_fournisseur3 Prénom_fournisseur3

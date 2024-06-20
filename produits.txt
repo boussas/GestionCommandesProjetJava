@@ -1,0 +1,4 @@
+milk,10.0,25
+Bread,1.0,16
+Rice,7.0,22
+Biscuits,4.0,85
