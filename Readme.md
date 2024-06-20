@@ -1,6 +1,6 @@
 GestionCommandesProjetJava
-Project Overview
 
+Project Overview:
 GestionCommandesProjetJava project is an application designed to manage orders, clients, suppliers, and products.
 Initially developed as a console application, 
 it now features a graphical user interface (GUI) for a better user experience.
@@ -27,13 +27,4 @@ Technical Details
     Language: Java
     GUI Framework: Swing
     Data Structures: Uses HashMap and List for managing data.
-
-Usage
-    Clone the Repository:
-      git clone https://github.com/boussas/GestionCommandesProjetJava.git
-    Open the Project in Your IDE:
-      Use an IDE like IntelliJ IDEA or Eclipse.
-    Run the Application:
-      Execute the main class (GestionCommandeApp) to start the application.
-
     
