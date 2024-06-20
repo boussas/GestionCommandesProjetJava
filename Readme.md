@@ -31,8 +31,9 @@ Technical Details
 Usage
     Clone the Repository:
       git clone https://github.com/boussas/GestionCommandesProjetJava.git
-
     Open the Project in Your IDE:
       Use an IDE like IntelliJ IDEA or Eclipse.
     Run the Application:
-    Execute the main class (GestionCommandeApp) to start the application.
+      Execute the main class (GestionCommandeApp) to start the application.
+
+    
