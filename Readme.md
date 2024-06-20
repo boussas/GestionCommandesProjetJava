@@ -19,7 +19,7 @@ Features:
         Create and manage orders, linking them to clients and suppliers.
         Fields for order number and quantity, with dropdown lists for products, clients, and suppliers.
     Data Persistence:
-        Save data from to files to ensure persistence between sessions.
+        Save data in files to ensure persistence between sessions.
     Data Validation:
         Methods to validate integer and double inputs and to ensure non-empty strings.
 
